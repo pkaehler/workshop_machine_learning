@@ -1,5 +1,5 @@
 # Workshop: Build your first Machine Learning model
-This workshop will show you some basics concepts of the domain `Machine Learning`
+This workshop will show you some basics of starting with `Machine Learning`
 
 # Structure
 ## Data
@@ -8,16 +8,12 @@ Unfortunately data description and the website are only available in German lang
 You can find some English translations at the end (#data-description)
 
 ## Content
-
-### Analysis
-
-### Cleansing
-
-### Feature Engineering
-
-### Training
-
-### Prediction and Evaluation
+* Downloading Data and Creation of Dataframes
+* Analysis and Visualization
+* Data Cleansing
+* Feature Engineering
+* Training
+* Prediction and Evaluation
 
 
 # Appendix
