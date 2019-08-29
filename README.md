@@ -6,7 +6,7 @@ One reference for the structure and topics is chapter 2 of Hands-On Machine Lear
 
 # Structure
 ## Data
--- Updated 2019-06-20 --
+-- Updated 2017-06-20 --<br>
 Data was downloaded  from https://data.deutschebahn.com/dataset/data-call-a-bike<br>
 There are 3 source CSV files which contain:
 * Stations
@@ -19,9 +19,14 @@ You can find some English translations at the end in **[Data Description](#data-
 ## Content
 * Downloading Data and Creation of Dataframes
 * Analysis and Visualization
+** Understand domain and real world context
+** Gain insights
 * Data Cleansing
+** Prepare data for modeling
 * Feature Engineering
+** Translate domain knowledge into machine readable data
 * Training
+** Build and tune models
 * Prediction and Evaluation
 
 
